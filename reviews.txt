@@ -1,0 +1,49 @@
+reviewer name:  Amazon Customer
+revew:   Wrost product it's unable install wifi drivers.& there is no response from hp& amazon about drivers.
+                                                                     
+reviewer name:  Amazon Customer
+revew:   Good laptop.no problem in working performence.thanks for amazon for fast delivery
+                                                                     
+reviewer name:  naitik s.
+revew:   Excellent product!
+Only one thing is disappointed that i have to install drivers and OS without this there's only DOS
+But its okay
+In this price you gonna get amazing product which has lots of beauty and perfection
+Using since month and no any issues with it.
+Smooth and fast fluid
+Amazing battery back up
+And it takes only 1.2 hour to charge minimum
+Thats great
+Its very slim
+No heating issues
+Camera also good enough
+Ram dont causes more problem its enough for all tasks as it have always free up to 3GB out of 3.8GB.
+No lagging
+And works awesome with windows 10
+                                                                     
+reviewer name:  mtillu
+revew:   I have no complains regarding the Delivery from Amazon. It was quick and product was well packed.
+However, regarding the product itself, its a FreeDOS laptop. People need to consider it while buying it. Installing Drivers from the HP support is really a pain and takes a lot of patience. For example, the Drivers for WLAN & Bluetooth provided on site are for Realtek, however my Laptop was dispatched with a Broadcom Chip, a fact only known when the Support guy verified it by serial number. Similarly, problems with USB Host controller, PCI SMbus, Webcam (because the chipset driver also didnt match the one available on site).
+The HP Support guys were helpful and searched for drivers and gave me links to download, but this entire process took a good 4-5 hours and led to a lot of frustration. but one thing to note is, if you install a pirated or a non activated version of any Windows OS, the Support guys may refuse to help you as they cant do so officially.
+However, I wish to affirm that, once these problems are sorted out, the Product is working as expected. no complains so far. So if you are buying be ready to invest a substantial amount of your time to get this up and running.
+                                                                     
+reviewer name:  Amazon Customer
+revew:   This is a Good Product in budget price.My suggestion for people trying to buy this product is that please don't even try to install Windows 7 on this Laptop it has lot of issues and even drivers provided in HP website wont help solving the issues.Instead install Windows 10,this laptop works perfectly on Windows 10.Finally suggestion to HP..Please atleast provide device drivers CD with your Laptops ..dont try for cost cutting in this basic requirement.
+                                                                     
+reviewer name:  Amazon Customer
+revew:   EXPERT REVIEW AFTER USING THE PRODUCT FOR 7 DAYS.
+2 GHZ INTEL PENTIUM PROCESSOR IS BLAZING FAST.
+15.6 DISPLAY PRODUCES CRYSTAL CLEAR VIDEOS AND GAMES
+1 TB EXPENDABLE MEMORY FOR SMOOTH MULTI APPLICATIONS
+4 GB RAM FOR FASTER PERFORMANCE.
+UBUNTU OPERATING SYSTEM MAKES IT FLEXIBLE DEVICE. JUST GO FOR IT
+2 STARS BECAUSE MY COUSIN GOT THIS ON DISCOUNTED PRICE BETTER THAN AMAZON
+TO GET ON DISCOUNTED PRICE GO TO: bit.do/ amazon-shop
+                                                                     
+reviewer name:  Amazon Customer
+revew:   USB not recognised. Installed win 7 32 bit and 64 bit. Both having same problem.
+                                                                     
+reviewer name:  Pratik Chavan
+revew:   Product is ausom as ur give info
+But just one thing to say just try to give Windows instead of DoS
+                                                                     
